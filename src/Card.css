@@ -3,7 +3,7 @@
     grid: 1fr / 100px 1fr;
     place-items: center;
     gap: 10px;
-    background-color: #02735E;
+    background-color: #ebeeef;
     height: 100%;
     width: 100%;
     border-radius: 20px;
@@ -18,10 +18,10 @@
     grid: 30px 1fr / 1fr;
 }
 .con-main .graph{
-    width: 70%;
+    width: 50%;
     height: 90%;
     place-self: end center ;
-    background: white;
+    background: #ffffff00;
     border-radius: 5px;
     margin: 0;
 }
@@ -39,7 +39,7 @@
 }
 .price{
     font-size: 1rem;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 .porcentajes{
     place-self: stretch;
